@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-⚗️ I’m a chemical engineering student at Ege University<br><br>🖱️ I’m currently learning Python and MATLAB
+# ⚗️ I’m a chemical engineering student at Ege University<br><br>🖱️ I’m currently learning Python and MATLAB
 
 
 ## 🌐 Socials:
